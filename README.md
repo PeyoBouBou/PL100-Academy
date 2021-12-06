@@ -1,2 +1,1 @@
-# PL100-Academy
- 
+# PL100-Academy :mortar_board:
