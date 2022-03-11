@@ -1,26 +1,27 @@
-# Informations sur la PL100 Academy
+# Informations sur la PL100 Academy 🎓 - Itération 3
 
-## :calendar: Dates des sessions
+## :calendar: Dates des sessions 
 
 | <center> Contenu de la session </center> | Dates |
 | --- | :---: |
-| Dataverse | Lundi 6 Décembre |
-| Power Apps Canvas  | Mercredi 8 Décembre |
-| Power Apps Model Driven | Vendredi 10 Décembre |
-| Power Automate | Lundi 13 Décembre |
-| Power BI | Mercredi 15 Décembre |
-| Other tech + Test | Vendredi 17 Décembre   |
+| Dataverse | Lundi 14 mars |
+| Power Apps Canvas  | Mercredi 16 mars |
+| Power Apps Model Driven | Vendredi 18 mars |
+| Power Automate | Lundi 21 mars |
+| Power BI | Mercredi 23 mars |
+| Other tech + Test | Vendredi 25 mars   |
 
-### Prochaine Itération
+### :bell: Prochaine Itération
 
-- Dataverse: Lundi 14 mars
-- Model Driven : Mercredi 16 mars
-- Canvas : Vendredi 18 mars
-- Power Automate : Lundi 21 mars
-- Power Bi : Mercredi 23 mars
-- Other Tech + Q&A : Vendredi 25 mars
+- Dataverse: Lundi 30 mai
+- Model Driven : Mercredi 1er juin
+- Canvas : Vendredi 3 juin
+- Power Automate : Mardi 1 juin (Attention le Lundi férier)
+- Power Bi : Mercredi 8 juin
+- Other Tech + Q&A : Vendredi 10 juin
 
 
-### Lien d'inscrition
+### :link: Lien d'inscrition
 
-TBD
+ https://www.microsoftevents.com/profile/12902616  
+
